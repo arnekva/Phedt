@@ -2,10 +2,10 @@
 
 ## Working with Markdown
 
-A nice, clean dark theme for VS COde
+A nice, clean dark theme for VS Code. 
 
-## Links
+<!-- ## Links
 
-* [View here](https://themes.vscode.one/theme/arnekva/HJgKOBUa)
+* [View here](https://themes.vscode.one/theme/arnekva/HJgKOBUa) -->
 
 **Enjoy!**
