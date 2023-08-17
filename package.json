@@ -1,8 +1,9 @@
 {
   "name": "phedt-theme",
-  "displayName": "Phedt",
+  "displayName": "Phedt Theme Dark",
+  "publisher": "Phedt",
   "description": "A nice, dark theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/Phedt Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/arnekva/Phedt"
   }
 }
