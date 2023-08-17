@@ -1,0 +1,21 @@
+{
+  "name": "phedt-theme",
+  "displayName": "Phedt",
+  "description": "A nice, dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phedt Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Phedt Dark-color-theme.json"
+      }
+    ]
+  }
+}
