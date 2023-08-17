@@ -1,6 +1,6 @@
 {
   "name": "phedt-theme",
-  "displayName": "Phedt Theme Dark",
+  "displayName": "Phedt Dark",
   "publisher": "Phedt",
   "description": "A nice, dark theme",
   "version": "1.0.0",
@@ -10,6 +10,8 @@
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -19,6 +21,14 @@
       }
     ]
   },
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark",
+    "phedt",
+    "clean"
+],
+"homepage": "https://github.com/arnekva/Phedt",
   "repository": {
     "type": "git",
     "url": "git://https://github.com/arnekva/Phedt"
