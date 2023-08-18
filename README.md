@@ -1,7 +1,5 @@
 # phedt-theme README
 
-## Working with Markdown
-
 A nice, clean dark theme for VS Code. 
 
 <!-- ## Links
