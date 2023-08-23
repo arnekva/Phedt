@@ -1,5 +1,4 @@
-# phedt-theme README
-
+# Phedt Dark
 A nice, colorful, clean dark theme for VS Code. 
 
 <!-- ## Links
