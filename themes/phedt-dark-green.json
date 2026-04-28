@@ -2094,8 +2094,6 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
     "debugExceptionWidget.border": "#474747",
-      "diffEditor.insertedTextBackground": "#28a5164e",
-  "diffEditor.insertedLineBackground": "#28a5164e",
-  "editor.selectionBackground": "#3355ff33"
+  "editor.selectionBackground": "#84e4f533"
   }
 }
